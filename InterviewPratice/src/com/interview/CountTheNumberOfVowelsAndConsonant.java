@@ -2,7 +2,7 @@ package com.interview;
 
 public class CountTheNumberOfVowelsAndConsonant {
 	public static void main(String[] args) {
-		String input = "My name is ashish  singh";
+		String input =  "My name is ashish  singh";
 		countTheNumberOfVowelsAndConsonant(input);
 
 	}
