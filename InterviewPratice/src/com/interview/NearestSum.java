@@ -5,7 +5,6 @@ public class NearestSum {
 		int[] a1 = { 12, 13, 5, 3 };
 		int[] a2 = { 13, 13, 30, 24 };
 		int x = 32;
-
 		int minDiff = Integer.MAX_VALUE;
 		int closestSum = 0;
 		int num1 = 0, num2 = 0;
