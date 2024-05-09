@@ -1,8 +1,8 @@
 package com.interview;
 
-public class CountTheNumberOfVowelsAndConsonant {
+public class CountVowelAndConsonsant {
 	public static void main(String[] args) {
-		String input =  "My name is ashish  singh";
+		String input =  "My name is ashish singh";
 		countTheNumberOfVowelsAndConsonant(input);
 
 	}
@@ -24,5 +24,5 @@ public class CountTheNumberOfVowelsAndConsonant {
 		System.out.println("No. of vowels is     " + vowelsCount);
 		System.out.println("No. of consonsnt is  " + consonantCount);
 	}
-}
 
+}
